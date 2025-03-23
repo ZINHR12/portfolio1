@@ -8,7 +8,7 @@ const projets = {
     "2": {
         title: "Location voitures ",
        // video: "videos/projet2.mp4",
-       screenshots: ["img/portfolio/p2.jpg.jpg", "img/portfolio/p3.jpg.jpg", "img/portfolio/p4.jpg.jpg","img/portfolio/p8.jpg.jpg","img/portfolio/p9.jpg.jpg","img/portfolio/p7.jpg.jpg"]
+       screenshots: ["portfolio/p2.jpg.jpg", "portfolio/p3.jpg.jpg", "portfolio/p4.jpg.jpg","portfolio/p8.jpg.jpg","portfolio/p9.jpg.jpg","portfolio/p7.jpg.jpg"]
     },
     "3": {
         title: "Renouvellement IGA WEBSITE",
